@@ -1,0 +1,76 @@
+@model rsH60Store.Models.Product
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="flex justify-center items-center ">
+    <div class=" p-8 rounded-lg shadow-lg w-full max-w-lg">
+        <h1 class="text-2xl font-bold mb-4">Edit @Model.Description?</h1>
+        <form asp-action="Edit" method="post" class="ax-w-3xl mx-auto bg-base-200 p-6 rounded-lg shadow-lg">
+            <div asp-validation-summary="ModelOnly" class="text-red-500 mb-4"></div>
+            <input type="hidden" asp-for="ProductId" />
+
+            <div class="form-group mb-4">
+                <label asp-for="ProdCatId" class="block font-medium mb-2">Category</label>
+                <select asp-for="ProdCatId" class="select select-bordered w-full max-w-xs" asp-items="ViewBag.ProductCategories"></select>
+                <span asp-validation-for="ProdCatId" class="text-red-500"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="Description" class="block font-medium mb-2"></label>
+                <input asp-for="Description" class="form-control p-2 input input-bordered w-full max-w-xs" />
+                <span asp-validation-for="Description" class="text-red-500"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="Manufacturer" class="block  font-medium mb-2"></label>
+                <input asp-for="Manufacturer" class="form-control input input-bordered w-full p-2 " />
+                <span asp-validation-for="Manufacturer" class="text-red-500"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="Stock" class="block font-medium mb-2"></label>
+                <input asp-for="Stock" class="form-control input input-bordered w-full p-2 " />
+                <span asp-validation-for="Stock" class="text-red-500"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="BuyPrice" class="block  font-medium mb-2">Buy Price</label>
+                <input type="number" asp-for="BuyPrice" class="form-control input input-bordered w-full p-2" />
+                <span asp-validation-for="BuyPrice" class="text-red-700"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="SellPrice" class="block  font-medium mb-2">Sell Price</label>
+                <input type="number" asp-for="SellPrice" class="form-control input input-bordered w-full p-2 " />
+                <span asp-validation-for="SellPrice" class="text-red-500"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="ImageUrl" class="block  font-medium mb-2">ImageURL</label>
+                <input type="text" asp-for="ImageUrl" class="form-control input input-bordered w-full p-2 " />
+                <span asp-validation-for="ImageUrl" class="text-red-500"></span>
+            </div>
+
+            <div class="form-group flex justify-between items-center gap-2">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-neutral ml-4">Cancel</a>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (ViewData.ModelState.IsValid == false)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}

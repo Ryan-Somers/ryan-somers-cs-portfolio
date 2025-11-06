@@ -1,0 +1,92 @@
+@model IEnumerable<rsH60Store.Models.Product>
+
+<h2 class="text-4xl mb-4 font-bold">Products</h2>
+
+
+<div class="flex items-center space-x-4 mb-8">
+    <form method="get" asp-action="Index" class="flex-grow">
+        <input type="text" name="searchTerm" placeholder="Search" class="input input-bordered"/>
+        <button type="submit" class="btn btn-primary">Search</button>
+      <a class="btn btn-success" asp-controller="Products" asp-action="Create">Add</a>
+    </form>
+    <a class="btn btn-neutral" asp-action="Index" asp-controller="Products">Reset</a>
+    <div class="ml-auto">
+        <form method="get" asp-action="Index" class="flex-grow">
+            <select name="categoryId" class="select select-bordered">
+                @if (ViewBag.Categories != null)
+                {
+                <option value="">All Categories</option>
+                @foreach (var category in ViewBag.Categories as IEnumerable<SelectListItem>)
+                {
+                <option value="@category.Value">@category.Text</option>
+                }
+                }
+            </select>
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </form>
+    </div>
+</div>
+
+<div class="overflow-x-auto">
+  <table class="table">
+    <thead>
+    <tr>
+      <th>Product</th>
+      <th>Manufacturer</th>
+      <th>Stock</th>
+      <th>Sell Price</th>
+      <th>Buy Price</th>
+      <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in Model)
+    {
+      <tr>
+        <td>
+          <div class="flex items-center gap-3">
+            <div class="avatar">
+              <div class="mask mask-squircle h-12 w-12">
+                <img src="@(!string.IsNullOrEmpty(product.ImageUrl) ? product.ImageUrl : "/images/default.png")" alt="@product.Description" />
+              </div>
+            </div>
+            <div>
+              <div class="font-bold">@product.Description</div>
+            </div>
+          </div>
+        </td>
+        <td>@product.Manufacturer</td>
+        <td><a class="link link-primary" asp-controller="Products" asp-route-id="@product.ProductId" asp-action="UpdateStock">@product.Stock in-stock</a></td>
+        <td>
+          @if (User.IsInRole("Manager"))
+          {
+          <a class="link link-primary" asp-controller="Products" asp-route-id="@product.ProductId" asp-action="UpdateSellPrice">
+            $@product.SellPrice
+          </a>
+          }
+          else
+          {
+          <span class="text-muted">$@product.SellPrice</span>
+          }
+        </td>
+        <td>
+          @if (User.IsInRole("Manager"))
+          {
+          <a class="link link-primary" asp-controller="Products" asp-route-id="@product.ProductId" asp-action="UpdateBuyPrice">
+            $@product.BuyPrice
+          </a>
+          }
+          else
+          {
+          <span class="text-muted">$@product.BuyPrice</span>
+          }
+        </td>
+        <td>
+          <a asp-action="Edit" asp-route-id="@product.ProductId" class="btn btn-primary btn-md">Update</a>
+          <a asp-action="Delete" asp-route-id="@product.ProductId" class="btn btn-neutral ml-4">Delete</a>
+        </td>
+      </tr>
+    }
+    </tbody>
+  </table>
+</div>

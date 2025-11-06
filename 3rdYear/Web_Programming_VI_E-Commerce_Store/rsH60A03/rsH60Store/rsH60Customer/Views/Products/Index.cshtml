@@ -1,0 +1,87 @@
+@model IEnumerable<rsH60Customer.Models.Product>
+
+<div class="flex items-center space-x-4 mb-8">
+    <h2 class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-4xl font-bold bg-clip-text text-transparent">Products</h2>
+    <form method="get" asp-action="Index" class="flex-grow">
+        <input type="text" name="searchTerm" placeholder="Search" class="input input-bordered"/>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+    <div class="ml-auto flex items-center space-x-2">
+        <form method="get" asp-action="Index" class="flex items-center space-x-2">
+            <!-- Category Dropdown -->
+            <select name="categoryId" class="select select-bordered">
+                @if (ViewBag.Categories != null)
+                {
+                    <option value="">All Categories</option>
+                    @foreach (var category in ViewBag.Categories as IEnumerable<SelectListItem>)
+                    {
+                        <option value="@category.Value">@category.Text</option>
+                    }
+                }
+            </select>
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </form>
+    </div>
+</div>
+
+
+@if (Model != null && Model.Any())
+{
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+    @foreach (var item in Model)
+    {
+    <div class="card bg-base-100 w-full shadow-xl">
+        <figure class="px-12 pt-12">
+            <img
+                src="@(!string.IsNullOrEmpty(item.ImageUrl) ? item.ImageUrl : "/images/default.png")"
+                alt="@item.Description"
+                class="rounded-xl"/>
+        </figure>
+
+        <div class="card-body items-center text-center">
+            <h2 class="card-title">@item.Description</h2>
+            <div class="flex flex-row items-center">
+                <div class="stats shadow-lg">
+                    <div class="stat ">
+                        <div class="stat-value bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-4xl font-bold bg-clip-text text-transparent">$@item.SellPrice</div>
+                    </div>
+                </div>
+            </div>
+            <p class="font-bold">@item.Manufacturer</p>
+            <p>@item.Stock in-stock</p>
+            <div class="card-actions">
+                <form asp-action="AddToCart" asp-controller="ShoppingCart" method="post">
+                    <input type="hidden" name="productId" value="@item.ProductId" />
+                    <input
+                        type="number"
+                        name="quantity"
+                        min="1"
+                        value="1"
+                        class="input input-bordered w-12 h-12 text-center rounded-full hidden"
+                        @(item.Stock == 0 ? "disabled" : "") />
+
+                    <button
+                        type="submit"
+                        class="btn btn-primary"
+                        @(item.Stock == 0 ? "disabled" : "")>
+                        @(item.Stock == 0 ? "Out of Stock" : "Add to Cart")
+                    </button>
+                </form>
+            </div>
+
+
+        </div>
+    </div>
+    }
+</div>
+}
+else
+{
+<div class="text-center">
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 mx-auto" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <path d="M12 8v4l3 3"></path>
+    </svg>
+    <p class="text-lg font-semibold mt-4">No products found</p>
+</div>
+}

@@ -1,0 +1,603 @@
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/appsettings.Development.json
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/appsettings.json
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.deps.json
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.runtimeconfig.json
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.pdb
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Azure.Core.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Azure.Identity.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Humanizer.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.CodeDom.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.csproj.AssemblyReference.cache
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.AssemblyInfoInputs.cache
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.AssemblyInfo.cs
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.csproj.CoreCompileInputs.cache
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.MvcApplicationPartsAssemblyInfo.cs
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.MvcApplicationPartsAssemblyInfo.cache
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.rsomers_H60Services.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.build.rsomers_H60Services.props
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.rsomers_H60Services.props
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.rsomers_H60Services.props
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/scopedcss/bundle/rsomers_H60Services.styles.css
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_.5DBCA5FD.Up2Date
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/refint/rsomers_H60Services.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.pdb
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.genruntimeconfig.cache
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/ref/rsomers_H60Services.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Common.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ryansomers/Documents/YearThree/Web 6/Assignments/rsH60A02/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/appsettings.Development.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/appsettings.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Connected Services/CalculateTaxes/ConnectedService.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Connected Services/CheckCreditCard/ConnectedService.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.deps.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.runtimeconfig.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/rsomers_H60Services.pdb
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Azure.Core.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Azure.Identity.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Humanizer.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.WsTrust.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.Saml.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.IdentityModel.Xml.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Common.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.CodeDom.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Private.ServiceModel.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.ServiceModel.Duplex.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.ServiceModel.Federation.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.ServiceModel.Http.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.ServiceModel.NetTcp.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.ServiceModel.Primitives.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.ServiceModel.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.ServiceModel.Security.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/System.Text.Json.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/System.Private.ServiceModel.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/cs/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/de/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/es/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/fr/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/it/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ja/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ko/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pl/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/pt-BR/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/ru/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/tr/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hans/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/zh-Hant/System.ServiceModel.Federation.resources.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.csproj.AssemblyReference.cache
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.AssemblyInfoInputs.cache
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.AssemblyInfo.cs
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.csproj.CoreCompileInputs.cache
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.MvcApplicationPartsAssemblyInfo.cs
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.MvcApplicationPartsAssemblyInfo.cache
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.rsomers_H60Services.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.build.rsomers_H60Services.props
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.rsomers_H60Services.props
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.rsomers_H60Services.props
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/scopedcss/bundle/rsomers_H60Services.styles.css
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_.5DBCA5FD.Up2Date
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/refint/rsomers_H60Services.dll
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.pdb
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/rsomers_H60Services.genruntimeconfig.cache
+/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsomers_H60Services/obj/Debug/net8.0/ref/rsomers_H60Services.dll

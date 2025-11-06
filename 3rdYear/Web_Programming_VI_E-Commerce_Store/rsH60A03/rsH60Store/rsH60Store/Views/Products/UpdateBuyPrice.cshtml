@@ -1,0 +1,30 @@
+@model rsH60Store.Models.Product
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Update Prices</h2>
+
+<form asp-action="UpdateBuyPrice" method="post">
+    <input type="hidden" name="productId" value="@Model.ProductId" />
+    <div class="form-control mb-4">
+        <label for="newBuyPrice" class="label">
+            <span class="label-text">Change Buy Price</span>
+        </label>
+        <input value="@Model.BuyPrice" type="number" id="newBuyPrice" name="newBuyPrice" class="input input-bordered" required />
+        <span asp-validation-for="BuyPrice" class="text-red-700"></span>
+        @if (TempData["ErrorMessage"] != null)
+        {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary">Update Buy Price</button>
+    <a asp-action="Index" class="btn btn-neutral ml-4">Cancel</a>
+</form>
+
+
+

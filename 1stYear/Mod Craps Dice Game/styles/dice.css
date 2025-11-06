@@ -1,0 +1,24 @@
+#dice {
+  width: 100px;
+  height: 100px;
+  background-image: url(images/Dice1.png);
+  background-size: cover;
+}
+
+#diceTwo {
+  width: 100px;
+  height: 100px;
+  background-image: url(images/Dice1.png);
+  background-size: cover;
+}
+
+.dice-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.dice {
+  width: 100px;
+  height: 100px;
+  /* Additional styling properties */
+}

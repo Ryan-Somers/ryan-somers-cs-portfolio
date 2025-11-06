@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Bagel, Shop, Restaurant">
+    <meta name="author" content="Somers Bagels">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles/site.css">
+    <title>Somers Bagels - Contact</title>
+</head>
+
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg bg navbar-dark fixed-top rounded-bottom">
+        <div class="container">
+            <a href="./index.html" class="navbar-brand">Somers Bagels</a>
+
+            <div class="collapse navbar-collapse" id="navMenu">
+                <ul class="navbar-nav m-2">
+                    <li class="nav-item">
+                        <a href="./menu.html" class="nav-link">Menu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="./rates.html" class="nav-link">Rates</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="./hours.html" class="nav-link">Hours</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="./testimonials.html" class="nav-link">Testimonials</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="./staff.html" class="nav-link">Staff</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="./contact.html" class="nav-link">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="./links.html" class="nav-link">Links</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!--Title Card-->
+    <main>
+        <div class="bg-light text-dark position-relative overflow-hidden p-3 p-md-0 m-md-3 text-center ">
+            <div class="col-md-5 p-lg-5 mx-auto my-5">
+                <h1 class="display-4 fw-normal">Somers Bagels</h1>
+                <p class="lead fw-normal">Let us know if you have any problems or concerns!</p>
+            </div>
+        </div>
+
+        <div class="bg-dark text-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 overflow-hidden text-center rounded-top ">
+            <h1>Email Us!</h1>
+            <p>Send us an email at company@somersbagels.cafe</p>
+        </div>
+
+        <div class="bg-dark text-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 overflow-hidden rounded-top ">
+            <h3 class="text-center">Or you can fill out this form to contact us directly!</h3>
+            <br>
+            <br>
+
+            <form name="fback" method="get" id="fback">
+                <label for="lname">First Name</label>
+                <input type="text" name="lname" id="lname" size="30" maxlength="30" placeholder="First Name">
+                <label for="fname">Last Name</label>
+                <input type="text" name="fname" id="fname" size="30" maxlength="25" placeholder="Last Name">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" size="60" maxlength="60" placeholder="example@email.com">
+                <label for="pnum">Phone Number</label>
+                <input type="text" name="pnum" id="pnum" size="20" maxlength="20" placeholder="(123) 456-7890">
+                <fieldset>
+                    <legend>I would like more information on the following: (check all that apply)
+                    </legend>
+
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="check_prices">
+                        <label class="form-check-label" for="check_prices">
+                            Prices
+                        </label>
+                    </div>
+
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="check_rates">
+                        <label class="form-check-label" for="check_rates">
+                            Rates
+                        </label>
+                    </div>
+
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="check_hours">
+                        <label class="form-check-label" for="check_hours">
+                            Hours
+                        </label>
+                    </div>
+
+
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="check_bagels">
+                        <label class="form-check-label" for="check_bagels">
+                            Bagels
+                        </label>
+                    </div>
+
+
+
+                </fieldset>
+                <label for="cmt">Enter any additional comments that you may have</label>
+                <textarea name="cmt" id="cmt" cols="10" rows="4"></textarea>
+                <label for="rating">Our Rating</label>
+                <select name="rating" id="rating">
+                    <option value="0">Select One</option>
+                    <option value="1">Excellent</option>
+                    <option value="2">Good</option>
+                    <option value="3">Fair</option>
+                    <option value="4">Poor</option>
+                    <option value="5">Bad</option>
+                </select>
+                <fieldset>
+                    <legend>How did you hear about us?</legend>
+                    <input type="radio" name="rg1" id="rg1_1" value="1">
+                    <label for="rg1_1">Search Engine</label><br>
+                    <input type="radio" name="rg1" id="rg1_2" value="2">
+                    <label for="rg1_2">Friends</label><br>
+                    <input type="radio" name="rg1" id="rg1_3" value="3">
+                    <label for="rg1_3">Advertisement</label><br>
+
+                </fieldset>
+                <div id="Actions">
+                    <input type="submit" name="Submit Button" id="btnSub" value="Tell Us">
+                    <input type="reset" name="Reset Button" id="btnReset" value="Cancel">
+                </div>
+            </form>
+
+
+
+
+        </div>
+
+
+    </main>
+    <!-- Footer -->
+    <footer class="footer mt-auto py-1 bg-dark rounded-bottom ">
+
+        <ul class="nav justify-content-center border-bottom pb-3">
+            <li class="nav-item"><a href="./index.html" class="nav-link px-2 text-light">Home</a></li>
+            <li class="nav-item"><a href="./menu.html" class="nav-link px-2 text-light">Menu</a></li>
+            <li class="nav-item"><a href="./rates.html" class="nav-link px-2 text-light">Rates</a></li>
+            <li class="nav-item"><a href="./hours.html" class="nav-link px-2 text-light">Hours</a></li>
+            <li class="nav-item"><a href="./testimonials.html" class="nav-link px-2 text-light">Testimonials</a></li>
+            <li class="nav-item"><a href="./staff.html" class="nav-link px-2 text-light">Staff</a></li>
+            <li class="nav-item"><a href="./contact.html" class="nav-link px-2 text-light">Contact Us</a></li>
+            <li class="nav-item"><a href="./links.html" class="nav-link px-2 text-light">Links</a></li>
+        </ul>
+        <p class="text-center text-light m-1 p1">&copy; 2022 Somers Bagels, Inc</p>
+
+    </footer>
+</body>
+
+</html>

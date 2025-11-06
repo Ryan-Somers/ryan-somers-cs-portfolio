@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+body {
+    font-family: "Fjalla One", Verdana, sans-serif;
+}
+
+
+
+.bg {
+    background-color: #654321;
+}
+
+
+.img-card {
+    width: 80%;
+    height: 300px;
+    border-radius: 21px 21px 0 0;
+}
+
+
+
+
+
+.img {
+    width: 50%;
+    height: 350px;
+    border-radius: 21px 21px 0 0
+}
+
+
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+#fback {
+    display: grid;
+
+}
+
+#fback>input,
+fieldset,
+textarea,
+select {
+    margin-bottom: 15px;
+
+}
+
+#fback>input,
+select {
+    width: fit-content;
+    padding: 5px;
+}
+
+#btnSub,
+#btnReset {
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 10px;
+}
+
+#btnSub {
+    border: 2px solid hwb(0 0% 100%);
+}
+
+#btnReset {
+    border: 2px solid hwb(0 0% 100%);
+}
+
+@media(min-width: 768px) {
+    #fback {
+        grid-template-columns: 200px 1fr 200px;
+        row-gap: 15px;
+        column-gap: 7px;
+    }
+
+    #fback>input,
+    fieldset,
+    textarea,
+    select {
+        margin-bottom: 0;
+
+    }
+
+    #fback>label {
+        column-span: all;
+        grid-column-start: 1;
+        grid-column-end: 2;
+        text-align: right;
+    }
+
+    #fback>label::after {
+        content: ":";
+    }
+
+    fieldset,
+    #Actions {
+        grid-column-start: 2;
+    }
+
+    .links {
+        list-style: georgian;
+    }
+
+
+}

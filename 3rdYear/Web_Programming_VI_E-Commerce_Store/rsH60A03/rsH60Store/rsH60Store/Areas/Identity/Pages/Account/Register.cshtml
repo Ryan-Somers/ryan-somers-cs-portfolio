@@ -1,0 +1,54 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<section>
+    <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+    <div class="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
+        <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
+            <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <h2 class="text-2xl font-bold">Create a new account</h2>
+
+                <div asp-validation-summary="ModelOnly" class="text-error mb-4" role="alert"></div>
+
+                <div class="form-control mb-4">
+                    <label asp-for="Input.Email" class="label">
+                        <span class="label-text">Email</span>
+                    </label>
+                    <input asp-for="Input.Email" class="input input-bordered" autocomplete="username" placeholder="name@example.com" aria-required="true" />
+                    <span asp-validation-for="Input.Email" class="text-error"></span>
+                </div>
+
+                <div class="form-control mb-4">
+                    <label asp-for="Input.Password" class="label">
+                        <span class="label-text">Password</span>
+                    </label>
+                    <input asp-for="Input.Password" class="input input-bordered" autocomplete="new-password" type="password" placeholder="password" aria-required="true" />
+                    <span asp-validation-for="Input.Password" class="text-error"></span>
+                </div>
+
+                <div class="form-control mb-6">
+                    <label asp-for="Input.ConfirmPassword" class="label">
+                        <span class="label-text">Confirm Password</span>
+                    </label>
+                    <input asp-for="Input.ConfirmPassword" class="input input-bordered" autocomplete="new-password" type="password" placeholder="password" aria-required="true" />
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-error"></span>
+                </div>
+                <br>
+                <button id="registerSubmit" type="submit" class="btn btn-primary w-1/2">Register</button>
+                <p class="text-sm font-light text-gray-500 dark:text-gray-400">
+                    Already have an account? <a asp-page="./Login">Login</a>
+                </p>
+            </form>
+            
+        </div>
+    </div>
+    </div>
+</section>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

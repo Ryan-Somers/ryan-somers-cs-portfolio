@@ -1,0 +1,32 @@
+@model rsH60Store.Models.ProductCategory
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-4xl font-bold mb-4">Create a category</h1>
+
+<form asp-action="Create" method="post" class="max-w-3xl mx-auto bg-base-200 p-6 rounded-lg shadow-lg">
+    <div class="form-control mb-4 hidden">
+        <label asp-for="CategoryId" class="label">
+            <span class="label-text">Category Id</span>
+        </label>
+        <input asp-for="CategoryId" class="input input-bordered" placeholder="Enter product description" />
+        <span asp-validation-for="CategoryId" class="text-error"></span>
+    </div>
+    <div class="form-control mb-4">
+        <label asp-for="ProdCat" class="label">
+            <span class="label-text">Product Category</span>
+        </label>
+        <input asp-for="ProdCat" class="label">
+        <span asp-validation-for="ProdCat" class="text-error"></span>
+    </div>
+
+    <div class="flex flex-row gap-2">
+        <input type="submit" value="Save" class="btn btn-primary"/>
+        <a asp-action="Index" class="btn btn-neutral ml-4">Cancel</a>
+    </div>
+</form>
+
+

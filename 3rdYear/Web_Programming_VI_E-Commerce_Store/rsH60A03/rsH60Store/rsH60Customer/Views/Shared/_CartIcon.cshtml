@@ -1,0 +1,32 @@
+@using System.Security.Claims
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using rsH60Customer.Models.Interfaces
+@inject IHttpContextAccessor HttpContextAccessor
+@inject IShoppingCartRepository ShoppingCartRepository
+
+@{
+    var userId = HttpContextAccessor.HttpContext?.User.FindFirstValue(ClaimTypes.NameIdentifier);
+    var cartExists = false;
+    var cartIdClaim = HttpContextAccessor.HttpContext?.User.FindFirst("CartId")?.Value;
+    var cartId = string.IsNullOrEmpty(cartIdClaim) ? 0 : int.Parse(cartIdClaim);
+
+    if (!string.IsNullOrEmpty(userId))
+    {
+        if (cartId > 0)
+        {
+            cartExists = await ShoppingCartRepository.CartExistsAsync(cartId);
+        }
+    }
+}
+
+@if (cartExists)
+{
+    <div class="ml-auto flex items-center gap-3">
+        <a asp-controller="ShoppingCart" asp-action="Index" asp-route-cartId="@cartId" class="text-gray-600 hover:text-gray-800">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="24" height="24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3 3h2l.6 3m0 0h13.8l1.5-4.5H6.6m0 4.5L5.4 19h13.2l-1.2-12.5M9 21a1.5 1.5 0 110-3 1.5 1.5 0 010 3zm8 0a1.5 1.5 0 110-3 1.5 1.5 0 010 3z"/>
+            </svg>
+        </a>
+    </div>
+}

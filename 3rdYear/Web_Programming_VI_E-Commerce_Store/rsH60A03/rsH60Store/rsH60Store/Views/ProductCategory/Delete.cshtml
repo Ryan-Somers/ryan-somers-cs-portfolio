@@ -1,0 +1,29 @@
+@model rsH60Store.Models.ProductCategory
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="card bg-base-100 w-96 shadow-xl">
+        <div class="card-body">
+            <h2 class="card-title">Delete @Model.ProdCat?</h2>
+            @if (TempData["ErrorMessage"] != null)
+            {
+            <div class="alert alert-danger">
+                @TempData["ErrorMessage"]
+            </div>
+            }
+            <div class="card-actions justify-end">
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="CategoryId" />
+                    <input type="submit" value="Delete" class="btn btn-danger" /> |
+                    <a class="btn btn-neutral ml-4" asp-action="Index">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+   
+</div>

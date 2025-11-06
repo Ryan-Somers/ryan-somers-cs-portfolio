@@ -1,0 +1,7 @@
+Here are the rules for Hangman:
+				The computer selects a word at random from the dictionary.
+				The player tries to guess the word letter by letter.
+				For each incorrect guess, a part of the hangman is drawn."
+			    The player loses if the entire hangman is drawn."
+				The player wins if they guess the word before the hangman is completed."
+				* Please note that the hint button can only be used once and it can't assist you for the last letter!*;

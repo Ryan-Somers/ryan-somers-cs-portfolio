@@ -1,0 +1,61 @@
+﻿@using Microsoft.AspNetCore.Identity
+@{
+    var cartIdClaim = User.FindFirst("CartId")?.Value;
+    var cartId = string.IsNullOrEmpty(cartIdClaim) ? 0 : int.Parse(cartIdClaim);
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - rsH60Customer</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.2.0/dist/tailwind.min.css" rel="stylesheet"/>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@2.25.0/dist/full.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+</head>
+<body>
+<header>
+    <div class="navbar bg-neutral text-neutral-content flex items-center p-5">
+        <div class="flex space-x-4">
+            <a class="btn btn-ghost text-lg" asp-controller="Home" asp-action="Index">Ryan's Store</a>
+            @if (User.Identity.IsAuthenticated && User.IsInRole("Customer"))
+            {
+                <a class="btn btn-ghost text-lg" asp-controller="Products" asp-action="Index">Products</a>
+                <a class="btn btn-ghost text-lg" asp-controller="ProductCategories" asp-action="Index">Categories</a>
+            }
+            <partial name="_LoginPartial"/>
+        </div>
+
+
+        @if (User.Identity.IsAuthenticated && User.IsInRole("Customer"))
+        {
+            <partial name="_CartIcon" />
+        }
+
+    </div>
+        
+</header>
+
+<div class="container mx-auto p-4 px-4 py-12">
+    <main role="main" class="min-h-screen">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="footer bg-neutral text-neutral-content p-10 mt-8">
+    <nav>
+        <h6 class="footer-title">Services</h6>
+        <a class="link link-hover">Branding</a>
+        <a class="link link-hover">Design</a>
+        <a class="link link-hover">Marketing</a>
+        <a class="link link-hover">Advertisement</a>
+    </nav>
+
+</footer>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await Component.InvokeAsync("Notyf")
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

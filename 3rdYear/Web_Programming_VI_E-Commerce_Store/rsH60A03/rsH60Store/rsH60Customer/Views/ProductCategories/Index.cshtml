@@ -1,0 +1,29 @@
+@model IEnumerable<rsH60Customer.Models.ProductCategory>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int count = 1;
+}
+
+<h2 class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-4xl font-bold bg-clip-text text-transparent">Categories</h2>
+
+<div class="overflow-x-auto">
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Count</th>
+            <th>Category</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var product in Model)
+        {
+        <tr>
+            <td>@(count++)</td>
+            <td>@product.ProdCat</td>
+        </tr>
+        }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,27 @@
+@model rsH60Customer.DTO.OrderDto
+
+@{
+    ViewBag.Title = "Order Confirmation";
+    Layout = "_Layout";
+}
+
+<h2 class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-4xl font-bold bg-clip-text text-transparent">Order Confirmation</h2>
+
+<p>Your order has been placed successfully! Below are your order details.</p>
+
+<!-- Order Summary -->
+<div class="mb-6">
+    <p><strong>Order ID:</strong> @Model.OrderId</p>
+    <p><strong>Date Created:</strong> @Model.DateCreated.ToString("MMMM dd, yyyy hh:mm tt")</p>
+    <p><strong>Customer ID:</strong> @Model.CustomerId</p>
+</div>
+
+
+<!-- Totals Section -->
+<div class="flex flex-col items-end space-y-3 mt-6">
+    <div>Subtotal: <strong>@((Model.Total - Model.Taxes).ToString("C"))</strong></div>
+    <div>Taxes: <strong>@Model.Taxes.ToString("C")</strong></div>
+    <div>Total: <strong>@Model.Total.ToString("C")</strong></div>
+</div>
+
+<a asp-action="Index" asp-controller="Products" class="btn btn-primary mt-4">Continue Shopping</a>

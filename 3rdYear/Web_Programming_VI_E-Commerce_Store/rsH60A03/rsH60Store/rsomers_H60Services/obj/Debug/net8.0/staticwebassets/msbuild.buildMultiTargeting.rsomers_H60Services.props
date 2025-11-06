@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/rsomers_H60Services.props" />
+</Project>

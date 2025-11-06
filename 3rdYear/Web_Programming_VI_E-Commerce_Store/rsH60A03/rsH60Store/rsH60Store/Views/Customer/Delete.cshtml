@@ -1,0 +1,31 @@
+@model rsH60Store.DTO.CustomerDeleteDto
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2 class="text-4xl font-semibold text-center py-4">Delete</h2>
+
+<div class="flex flex-col items-center">
+    <div class="card bg-base-100 w-96 shadow-xl ">
+        <div class="card-body">
+            <h2 class="card-title">Delete @Model.FirstName @Model.LastName?</h2>
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger">
+                    @TempData["ErrorMessage"]
+                </div>
+            }
+            <div class="card-actions justify-start">
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="CustomerId" />
+                    <input type="submit" value="Delete" class="btn btn-danger" /> |
+                    <a asp-action="Index">Back to List</a>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+   
+</div>

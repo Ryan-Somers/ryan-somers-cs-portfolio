@@ -1,0 +1,45 @@
+@model IEnumerable<rsH60Customer.DTO.CartItemDto>
+
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "_Layout";
+    var cartIdClaim = User.FindFirst("CartId")?.Value;
+    var cartId = string.IsNullOrEmpty(cartIdClaim) ? 0 : int.Parse(cartIdClaim);
+}
+
+<h2 class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-4xl font-bold bg-clip-text text-transparent">Checkout - Please Review your Items!</h2>
+
+<table class="table w-full">
+    <thead>
+    <tr>
+        <th>Product Name</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Total</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductName</td>
+            <td>@item.Quantity</td>
+            <td>@item.Price.ToString("C")</td>
+            <td>@item.Total.ToString("C")</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<div class="p-5">
+<p>Total: <strong>@ViewBag.Total.ToString("C")</strong></p>
+<p>Taxes: <strong>@ViewBag.Taxes.ToString("C")</strong></p>
+<p>Subtotal: <strong>@ViewBag.Subtotal.ToString("C")</strong></p>
+</div>
+
+<div class="flex flex-row gap-3">
+<form asp-action="CheckoutItems" asp-controller="ShoppingCart" method="post">
+    <button type="submit" class="btn btn-primary">Confirm and Place Order</button>
+    <a class="btn btn-neutral" asp-action="Index" asp-route-cartId="@cartId">Go back</a>
+</form>
+</div>

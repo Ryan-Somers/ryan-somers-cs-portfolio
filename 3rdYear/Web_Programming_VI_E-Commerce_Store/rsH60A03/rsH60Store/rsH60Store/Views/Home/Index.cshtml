@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<section class="">
+    <div class=" flex flex-col items-center text-center ">
+        <div class="max-w-md">
+            <h1 class=" bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-5xl font-bold bg-clip-text text-transparent">Managing Ryan's Store.</h1>
+            <p class="py-6 text-2xl">
+                Head over to <span class="font-bold">Products & Categories</span> where you can manage them in the store.
+            </p>
+
+            <a class="btn btn-primary" asp-controller="Products" asp-action="Index">Products</a>
+            <a class="btn btn-neutral" asp-controller="ProductCategory" asp-action="Index">Categories</a>
+        </div>
+    </div>
+</section>

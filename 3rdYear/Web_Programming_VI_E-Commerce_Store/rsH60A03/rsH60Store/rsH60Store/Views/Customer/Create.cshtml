@@ -1,0 +1,66 @@
+@model rsH60Store.DTO.CustomerRegistrationDto
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2 class="text-4xl font-semibold text-center py-4">Create</h2>
+
+<form asp-action="Create" method="post" class="max-w-3xl mx-auto bg-base-200 p-6 rounded-lg shadow-lg">
+    <div class="form-control mb-4">
+        <label asp-for="FirstName" class="label">
+            <span class="label-text">First Name</span>
+        </label>
+        <input asp-for="FirstName" class="input input-bordered" placeholder="First Name">
+        <span asp-validation-for="FirstName" class="text-error"></span>
+    </div>
+    <div class="form-control mb-4">
+        <label asp-for="LastName" class="label">
+            <span class="label-text">Last Name</span>
+        </label>
+        <input asp-for="LastName" class="input input-bordered" placeholder="Last Name">
+        <span asp-validation-for="LastName" class="text-error"></span>
+    </div>
+    <div class="form-control mb-4">
+        <label asp-for="Email" class="label">
+            <span class="label-text">Email</span>
+        </label>
+        <input asp-for="Email" class="input input-bordered" placeholder="Email">
+        <span asp-validation-for="Email" class="text-error"></span>
+    </div>
+    <div class="form-control mb-4">
+        <label asp-for="PhoneNumber" class="label">
+            <span class="label-text">Phone Number</span>
+        </label>
+        <input asp-for="PhoneNumber" class="input input-bordered" placeholder="Phone Number">
+        <span asp-validation-for="PhoneNumber" class="text-error"></span>
+    </div>
+    <div class="form-control mb-4">
+        <label asp-for="Province" class="label">
+            <span class="label-text">Province</span>
+        </label>
+        <input asp-for="Province" class="input input-bordered" placeholder="Province">
+        <span asp-validation-for="Province" class="text-error"></span>
+    </div>
+    <div class="form-control mb-4">
+        <label asp-for="CreditCard" class="label">
+            <span class="label-text">Credit Card</span>
+        </label>
+        <input asp-for="CreditCard" class="input input-bordered" placeholder="Credit Card">
+        <span asp-validation-for="CreditCard" class="text-error"></span>
+    </div>
+
+    <div class="form-control mb-4">
+        <label asp-for="Password" class="label">
+            <span class="label-text">Password</span>
+        </label>
+        <input type="password" asp-for="Password" class="input input-bordered" placeholder="Password">
+        <span asp-validation-for="Password" class="text-error"></span>
+    </div>
+    
+    <div class="flex flex-row gap-2">
+        <input type="submit" value="Save" class="btn btn-primary"/>
+        <a asp-action="Index" class="btn btn-info ml-4">Cancel</a>
+    </div>
+</form>

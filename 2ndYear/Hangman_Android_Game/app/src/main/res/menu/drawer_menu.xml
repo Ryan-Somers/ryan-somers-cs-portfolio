@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemNewGame"
+        android:title="New Game"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemScoreBoard"
+        android:title="Score Board"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemRules"
+        android:title="Rules"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemExit"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>

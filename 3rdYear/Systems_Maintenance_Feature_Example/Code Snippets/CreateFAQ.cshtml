@@ -1,0 +1,44 @@
+@using HFA.Models
+@using HFA.Resources
+@model FrequentlyAskedQuestion
+
+@{
+Layout = "~/Views/Shared/_ContentHubLayout.cshtml";
+ViewData["Title"] = "FAQ";
+}
+
+@* PEA Note: *@
+@* I refactored this view and many others so that it was responsive for mobile users.  *@
+@* This way the user can easily view and edit the FAQ on their mobile device. *@
+
+<div class="max-w-screen-lg mx-auto w-full px-4 sm:px-6 lg:px-8 py-6">
+    <h1 class="text-3xl font-bold mb-8 text-left">@HFA_Resources.CreateFAQ</h1>
+
+    <form asp-action="CreateFAQ" method="post" class="grid grid-cols-1 gap-y-6 md:gap-y-8">
+        @Html.AntiForgeryToken()
+
+        <!-- Question Field -->
+        <div class="w-full">
+            <label for="Question" class="block text-lg font-medium text-gray-700 mb-2">@HFA_Resources.Question</label>
+            <input asp-for="Question" id="Question" name="Question" type="text"
+                   class="input input-bordered w-full text-base md:text-lg md:h-12"
+                   placeholder="@HFA_Resources.Enter_Question" />
+            <span asp-validation-for="Question" class="text-sm text-red-600 mt-1 block"></span>
+        </div>
+
+        <!-- Answer Field -->
+        <div class="w-full">
+            <label for="Answer" class="block text-lg font-medium text-gray-700 mb-2">@HFA_Resources.Answer</label>
+            <textarea asp-for="Answer" id="Answer" name="Answer" rows="5"
+                      class="textarea textarea-bordered w-full text-base md:text-lg md:h-36"
+                      placeholder="@HFA_Resources.Enter_Answer"></textarea>
+            <span asp-validation-for="Answer" class="text-sm text-red-600 mt-1 block"></span>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="flex flex-col gap-4 sm:flex-row sm:justify-end">
+            <a asp-action="FAQ" class="btn btn-outline w-full sm:w-auto text-base md:text-lg md:px-6">@HFA_Resources.Cancel</a>
+            <button type="submit" class="btn btn-primary w-full sm:w-auto text-base md:text-lg md:px-6">@HFA_Resources.Save</button>
+        </div>
+    </form>
+</div>

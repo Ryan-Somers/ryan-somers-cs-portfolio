@@ -1,0 +1,44 @@
+@model IEnumerable<rsH60Store.Models.Customer>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="flex flex-row gap-3">
+    <h2 class="text-4xl mb-4 font-bold">Customers</h2>
+    <a class="btn btn-success" asp-action="Create">Add</a>
+</div>
+
+<div class="overflow-x-auto">
+    <table class="table">
+        <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Province</th>
+            <th>Credit Card</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.FirstName</td>
+                <td>@product.LastName</td>
+                <td>@product.Email</td>
+                <td>@product.PhoneNumber</td>
+                <td>@product.Province</td>
+                <td>@product.CreditCard</td>
+                <td>    
+                    <a asp-action="Update" asp-route-id="@product.CustomerId" class="btn btn-primary btn-md">Update</a>
+                    <a asp-action="Delete" asp-route-id="@product.CustomerId" class="btn btn-neutral btn-md">Delete</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

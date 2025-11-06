@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scoreboardTable"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+
+    <!-- Header Row -->
+    <TableRow>
+        <TextView
+            android:padding="8dp"
+            android:text="Player Name"
+            android:textStyle="bold" />
+
+        <TextView
+            android:padding="8dp"
+            android:text="Games Played"
+            android:textStyle="bold" />
+
+        <TextView
+            android:padding="8dp"
+            android:text="Games Won"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <!-- Data rows will be added programmatically -->
+</TableLayout>

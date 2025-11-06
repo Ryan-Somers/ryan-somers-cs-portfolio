@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/obj/Debug/net8.0/scopedcss/projectbundle/rsH60Store.bundle.scp.css",
+      "PackagePath": "staticwebassets/rsH60Store.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/css/input.css",
+      "PackagePath": "staticwebassets/css/input.css"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/bagone.png",
+      "PackagePath": "staticwebassets/images/bagone.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/bagtwo.png",
+      "PackagePath": "staticwebassets/images/bagtwo.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/cargo.png",
+      "PackagePath": "staticwebassets/images/cargo.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/coatone.png",
+      "PackagePath": "staticwebassets/images/coatone.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/coattwo.png",
+      "PackagePath": "staticwebassets/images/coattwo.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/default.jpg",
+      "PackagePath": "staticwebassets/images/default.jpg"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/essentialsblack.png",
+      "PackagePath": "staticwebassets/images/essentialsblack.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/fragment.png",
+      "PackagePath": "staticwebassets/images/fragment.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/golftrav.png",
+      "PackagePath": "staticwebassets/images/golftrav.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/hoodie.png",
+      "PackagePath": "staticwebassets/images/hoodie.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/nike.jpg",
+      "PackagePath": "staticwebassets/images/nike.jpg"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/pants.png",
+      "PackagePath": "staticwebassets/images/pants.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/reversem.png",
+      "PackagePath": "staticwebassets/images/reversem.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/stussy.png",
+      "PackagePath": "staticwebassets/images/stussy.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/images/tshirt.png",
+      "PackagePath": "staticwebassets/images/tshirt.png"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ryansomers/Downloads/rsH60A03/rsH60Store/rsH60Store/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.rsH60Store.props",
+      "PackagePath": "build\\rsH60Store.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.rsH60Store.props",
+      "PackagePath": "buildMultiTargeting\\rsH60Store.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.rsH60Store.props",
+      "PackagePath": "buildTransitive\\rsH60Store.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.rsH60Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
