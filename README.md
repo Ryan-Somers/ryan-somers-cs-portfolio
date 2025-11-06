@@ -1,10 +1,10 @@
-# Program Exit Assessment
+# Computer Science Portfolio
 ## Ryan Somers
 Somers.Ryan@cegep-heritage.qc.ca
 
 Heritage College
 
-Third-Year Computer Science Student
+Recent graduate of Cégep Heritage College.
 
 The program's learning results are demonstrated by the students' creation of a digital Git portfolio, which also serves as a technical resume for job applications.
 
